@@ -1,0 +1,1 @@
+using OpenID's Client side (consumer) libraries to build a pam module for 
